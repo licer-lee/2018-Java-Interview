@@ -12,7 +12,7 @@ https://github.com/crossoverJie/Java-Interview/blob/master/MD/concurrent/thread-
 
 ### 锁
 #### 锁是什么
-锁是在不同线程竞争资源的情况下来分配不同线程执行方式的同步控制工具，只有线程获取到锁之后才能访问同步代码，否则等待其他线程使用结束后释放锁
+锁是在不同线程`竞争资源`的情况下来分配不同线程执行方式的同步控制工具，只有线程获取到锁之后才能访问同步代码，否则等待其他线程使用结束后释放锁
 
 #### [synchronized](https://mp.weixin.qq.com/s/0qyNS6wQUShhJHoMuyziMg)
 通常和wait，notify，notifyAll一块使用。    
